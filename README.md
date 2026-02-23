@@ -2,6 +2,8 @@
 
 Every command you need from first build to shipping a signed DMG. No fluff.
 
+> **Note:** This is a work in progress and not finished yet. The full pipeline will be updated in the future.
+
 ## Best External Resources
 
 - **[Rasmus Andersson's macOS distribution gist](https://gist.github.com/rsms/929c9c2fec231f0cf843a1a746a416f5)** — Code signing, notarization, quarantine, and distribution vehicles (DMG vs ZIP vs PKG). Written by the creator of Inter and former Spotify/Figma engineer.
